@@ -1,4 +1,4 @@
-# How to Setup Codeigniter on Ubuntu 22.04
+# How to Setup Codeigniter 4 on Ubuntu 22.04
 
 - sudo apt update
 - sudo apt install curl unzip
